@@ -1,0 +1,10 @@
+#lxml
+#beautifulsoup4
+guessit
+requests
+#cloudscraper
+thefuzz
+
+
+#https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein
+#python-Levenshtein-wheels
